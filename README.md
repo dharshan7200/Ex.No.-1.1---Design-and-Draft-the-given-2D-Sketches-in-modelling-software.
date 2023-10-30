@@ -43,6 +43,10 @@ To sketch the given drawing with dimensions using fusion 360 tool.
 
 ## OUTPUT
 
+[Dharshan EDM ex01.pdf](https://github.com/dharshan7200/Ex.No.-1.1---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./files/13200395/Dharshan.EDM.ex01.pdf)
+
+
+
 
 ## RESULT
 Thus the given sketch is drawn and drafted using fusion 360 tool.
